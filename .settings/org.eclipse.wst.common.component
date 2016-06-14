@@ -4,6 +4,7 @@
         <wb-resource deploy-path="/" source-path="/webapp/WEB-INF/target/m2e-wtp/web-resources"/>
         <wb-resource deploy-path="/" source-path="/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/"/>
         <property name="context-root" value="jfinal"/>
         <property name="java-output-path" value="/jfinal/webapp/WEB-INF/classes"/>
     </wb-module>
